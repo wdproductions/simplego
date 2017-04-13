@@ -38,6 +38,8 @@ var (
 
 const baseChangeURL = "https://go.googlesource.com/go/+/"
 
+const dummyURL = "http://www.google.com"
+
 func main() {
 	flag.Parse()
 	changeURL := fmt.Sprintf("%sgo%s", baseChangeURL, *version)
