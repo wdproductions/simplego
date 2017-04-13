@@ -1,3 +1,5 @@
+# Using this golang example repo to test out drone configs.  I didn't write any of this.  Original can be found ([here](https://github.com/golang/example))
+
 # Go example projects
 
 This repository contains a collection of Go programs and libraries that
