@@ -1,10 +1,11 @@
 workspace:
   base: /Go
-  path: src/github.com/wdproductions/simplego/outyet
+  path: src/github.com/wdproductions/simplego
 
 pipeline:
   build:
     image: golang
     commands:
+      - go get -d
       - go build
       - go test
