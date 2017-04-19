@@ -1,6 +1,6 @@
 workspace:
   base: /Go
-  path: src/github.com/wdproductions/simplego/
+  path: src/github.com/wdproductions/simplego/hello
 
 pipeline:
   build:
