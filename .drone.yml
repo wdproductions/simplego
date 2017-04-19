@@ -1,6 +1,6 @@
 workspace:
   base: /go
-  path: src/github.com/wdproductions/simplego/tree/master/outyet
+  path: src/github.com/wdproductions/simplego/
 
 pipeline:
   build:
